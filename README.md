@@ -65,4 +65,4 @@ RegisterNumber:24008491
 
 
 **RESULTS**
-D flipflop using verilog is verified.
+D flipflop using verilog is verified. 
